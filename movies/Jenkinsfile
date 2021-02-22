@@ -14,7 +14,7 @@ pipeline {
         DEV_PROJECT = "jlindesm-movies-dev"
         STAGE_PROJECT = "jlindesm-movies-stage"
         APP_GIT_URL = "https://github.com/jlindesm/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/java"
+        NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "movies"
